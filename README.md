@@ -1,2 +1,2 @@
 # montochas
-Repositorio de pruebas desde windows
+Ejercicios de control clásico
